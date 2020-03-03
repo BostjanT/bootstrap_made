@@ -57,7 +57,7 @@ body {
 
 /* ##### BANNER #####*/
 #banner {
-	background: url(./images/hardcore.jpg);
+	background: url(../images/hardcore.jpg);
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: center;
@@ -122,7 +122,7 @@ body {
 /* ##### PROJECTS #####*/
 #filler-3 {
 	background: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)),
-		url(/images/win.jpg);
+		url(../images/win.jpg);
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: center;
@@ -160,7 +160,7 @@ body {
 #banner-form,
 #banner-form-2 {
 	background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)),
-		url(/images/IMG_5049.jpg);
+		url(../images/IMG_5049.jpg);
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: center;
@@ -322,7 +322,7 @@ body {
 /* ###########   FORM FILLER   ############## */
 #form-filler {
 	background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)),
-		url(/images/hardcore.jpg);
+		url(../images/hardcore.jpg);
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: center;
@@ -364,7 +364,7 @@ body {
 }
 #about-bcg .background-image {
 	background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)),
-		url(/images/spaniel.jpg);
+		url(../images/spaniel.jpg);
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: center;
@@ -433,8 +433,6 @@ body {
 
 /* ############## CAROUSEL ##################*/
 .carousel-item .img-fluid {
-	/* max-width: 100%;
-	height: auto; */
 	width: 100%;
 	margin: auto;
 	height: 550px;
