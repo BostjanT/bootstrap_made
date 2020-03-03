@@ -57,7 +57,7 @@ body {
 
 /* ##### BANNER #####*/
 #banner {
-	background: url(/images/hardcore.jpg);
+	background: url(./images/hardcore.jpg);
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: center;
